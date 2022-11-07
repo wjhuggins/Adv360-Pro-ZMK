@@ -18,7 +18,7 @@
 #include <dt-bindings/zmk/rgb.h>
 #include <dt-bindings/zmk/backlight.h>
 
-#include my_macros.keymap
+#include "my_macros.keymap"
 
 / {
     keymap {
