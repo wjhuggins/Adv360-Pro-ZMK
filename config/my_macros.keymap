@@ -1,0 +1,2 @@
+#define HYP LS(LC(LA(LGUI)))
+#define HYPER(key) LS(LC(LA(LG(key))))
